@@ -1,0 +1,3 @@
+green = "#6aa84f"
+yellow = "#ffd966"
+red = "#C00000"
