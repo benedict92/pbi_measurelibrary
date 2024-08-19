@@ -1,0 +1,17 @@
+Area Indicator Colors:
+--------------------------
+Mainly used for filling shapes like squares, circles, ...
+Should not be used for smaller indicators and for font formatting.
+
+green = "#6aa84f"
+yellow = "#ffd966"
+red = "#C00000"
+
+
+Font Indicator Colors:
+--------------------------
+Use these to format fonts with conditional formatting.
+
+green = "#6aa84f"
+yellow = "#B78E15"
+red = "#C00000"
